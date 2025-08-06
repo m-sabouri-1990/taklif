@@ -67,9 +67,37 @@ div.parent>div.pezhmanfar-card>a{
 }
  div.parent>div.reihane{
     background-color: cadetblue;
+    width: 20%;
+    border-radius: 20px;
+    padding: 20px;
+    box-sizing: border-box;
+    margin-top: 30px;
 }
 div.parent>div.reihane>img{
-   
-    width: 20%;
+    width: 150px;
+    height: 150px;
+    display: block;
+    margin: 15px auto;
+    border-radius: 15px;
+
+}
+div.parent>div.reihane>p{
+     text-align: center;
+    font-size: 12px;
+    font-weight: bolder;
+
+}
+div.parent>div.reihane>a{
+     text-decoration: none;
+    display: block;
+    color: antiquewhite;
+    margin: 50px auto;
+    text-align: center;
+    width: 80px;
+    height: 25px;
+    line-height: 25px;
+    background-color: crimson;
+    padding: 5px 20px;
+    border-radius: 10px;
 
 }
