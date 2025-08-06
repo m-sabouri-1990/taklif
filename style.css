@@ -65,3 +65,11 @@ div.parent>div.pezhmanfar-card>a{
     padding: 5px 20px;
     border-radius: 10px;
 }
+div.reihane{
+    background-color: cadetblue;
+}
+div.reihane>img{
+   
+    width: 20%;
+
+}
